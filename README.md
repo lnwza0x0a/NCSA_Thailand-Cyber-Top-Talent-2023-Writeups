@@ -40,8 +40,8 @@
 ## Web Application
 
 - [local flag](https://shorturl.asia/yXDYx)
-- [Hidden Attack]()
-- [Nginx Secmisk]()
+- [Hidden Attack](https://shorturl.asia/vifoN)
+- [Nginx Secmisk](https://shorturl.asia/vifoN)
 
 ## Mobile
 
