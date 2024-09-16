@@ -39,14 +39,14 @@
 
 ## Web Application
 
-- [local flag](https://shorturl.asia/yXDYx)
+- [Pickle](https://shorturl.asia/vifoN)
 - [Hidden Attack](https://shorturl.asia/vifoN)
 - [Nginx Secmisk](https://shorturl.asia/vifoN)
 
 ## Mobile
 
 - [hello_flutter_app](https://shorturl.asia/tkopQ)
-- [Show Me The Flag]()
+- [Show Me The Flag](https://shorturl.asia/vifoN)
 - [mflag]()
 - [hflag]()
-- [WidgProx]()
+- [WidgProx](https://shorturl.asia/vifoN)
