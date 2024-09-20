@@ -47,6 +47,6 @@
 
 - [hello_flutter_app](https://shorturl.asia/tkopQ)
 - [Show Me The Flag](https://shorturl.asia/vifoN)
-- [mflag]()
-- [hflag]()
+- [mflag](https://medium.com/@fnnnr/ctt2023-hflag-200-pts-2be3f834056e)
+- [hflag](https://medium.com/@fnnnr/ctt2023-hflag-200-pts-4be08927769f)
 - [WidgProx](https://shorturl.asia/vifoN)
